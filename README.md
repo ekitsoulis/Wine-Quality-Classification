@@ -63,8 +63,12 @@ This project predicts **wine quality** based on **physicochemical properties** u
 ## 📊 Data Visualizations
 
 ### 🔹 **1. Quality Distribution Before & After Preprocessing**
+
+
 - **Before Preprocessing:**
   ![Quality Distribution Before](Image/Quality_Score_Distribution_Before.png)
+
+
 
 - **After Preprocessing (Class Rebalancing with SMOTE):**
   ![Quality Distribution After](Image/Quality_Score_Distribution_After.png)
