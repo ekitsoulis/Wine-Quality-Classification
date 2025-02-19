@@ -57,6 +57,35 @@ This project predicts **wine quality** based on **physicochemical properties** u
 - **Class 3 (Excellent wines) were the easiest to classify.**
 - **Poor and Average wines** had lower AUC scores due to overlapping feature distributions.
 
+
+---
+
+## 📊 Data Visualizations
+
+### 🔹 **1. Quality Distribution Before & After Preprocessing**
+- **Before Preprocessing:**
+  ![Quality Distribution Before](Image/Quality_Score_Distribution_Before.png)
+
+- **After Preprocessing (Class Rebalancing with SMOTE):**
+  ![Quality Distribution After](Image/Quality_Score_Distribution_After.png)
+
+---
+
+### 🔹 **2. Correlation Heatmap**
+- This heatmap shows relationships between features.
+  ![Correlation Heatmap](Image/Correlation_Heatmap.png)
+
+---
+
+### 🔹 **3. Feature Importance**
+- The most influential features in predicting wine quality.
+  ![Feature Importance](Image/Feature_Importance_Chart.png)
+
+---
+
+### 🔹 **4. ROC Curve**
+- The **Multi-class ROC Curve** evaluates classification performance.
+  ![ROC Curve](Image/Multi_Class_ROC_Curve.png)
 ---
 
 ## 📜 How to Run
