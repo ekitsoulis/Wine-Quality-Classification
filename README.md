@@ -94,5 +94,5 @@ This project predicts **wine quality** based on **physicochemical properties** u
 ### **🔧 Installation**
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/Wine-Quality-Classification.git
+   git clone https://github.com/ekitsoulis/Wine-Quality-Classification.git
    cd Wine-Quality-Classification
